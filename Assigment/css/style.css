@@ -1,1 +1,26 @@
+/*header*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: gray ;
+    /* border: transparent 1px inset; */
+    padding-top: auto;
+    padding-bottom: auto;
+    min-height: 50px;
+}
+
+.row > div p{
+    background-color: blue;
+    color: aliceblue;
+    padding: 15px;
+    margin-bottom: 0;
+}
+
+.row > div{
+    /* border:red solid 2px; */
+    margin-bottom: 15px;
+}
 
